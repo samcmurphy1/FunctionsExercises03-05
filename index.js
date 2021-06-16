@@ -64,7 +64,7 @@ function buildFunPhrase(word) {
   } else {
     subWord = word.slice(0, 3)
   }
-  return `We put the n in fun`
+  return `We put the n in Fun`
 }
 
 console.log(buildFunPhrase("LaunchCode"))
